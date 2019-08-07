@@ -10,15 +10,15 @@ comments: true
 
 **Vous venez d'installer Ubuntu 19. 04 Disco Dingo et voulez passer à l'étape suivante en installant LAMP sur votre machine. Voici les étapes à suivre.**
 
-##Préalables: Installer Ubuntu
+##Préalables: Installer Ubuntu##
 
 Si vous ne disposez pas encore d'une distribution Ubuntu, une manière simple pour se familiariser avec cet OS consiste à créer une machine virtuelle (VM). Vous pouvez trouver l'ISO d'Ubuntu sur le site de Canonical [1] ou encore utiliser l'image d'une machine virtuelle [2].
 
-##Pourquoi LAMP ?
+##Pourquoi LAMP ?##
 
-LAMP signifie Linux, Apache, MySQL, PHP. Cette pile vous permettra de développer vos sites en suivant une architecture trois tiers [3][4] et pourquoi pas d'installer Damn Vulnerable Web Application, DVWA, pour commencer à apprendre les bases des tests d'intrusion
+LAMP signifie Linux, Apache, MySQL, PHP. Cette pile vous permettra de développer vos sites en suivant une architecture trois tiers [3] et pourquoi pas d'installer Damn Vulnerable Web Application, DVWA, pour commencer à apprendre les bases des tests d'intrusion
 
-##Installer LAMP
+##Installer LAMP##
 
 **1-Installer Apache**
 
@@ -87,6 +87,7 @@ Vérifier que PHP fonctionne. Créer un document test.php dans le fichier /var/w
 $sudo vim /var/www/html/test.php
 ~~~
 
+
 ~~~
 <?php phpinfo(); ?>  
 ~~~
@@ -114,9 +115,11 @@ $ sudo rm -rf /var/www/html/test.php
 **Références:**
 
 [1] Canonical, [Ubuntu]( https://ubuntu.com/)
+
 [2] OSBoxes, [Ubuntu]( https://www.osboxes.org/ubuntu/)
-[3] Wikiversity, [Three-Tier Architecture](https://en.wikiversity.org/wiki/Three-Tier_Architecture)
-[4] Wikipedia, [LAMP] (https://en.wikipedia.org/wiki/LAMP_(software_bundle))
-[5] DigitalOcean,[ How To Install Linux, Apache, MySQL, PHP (LAMP) stack on Ubuntu 18.04] (https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04)
+
+[3] Wikiversity, [Three-Tier Architecture]( https://en.wikiversity.org/wiki/Three-Tier_Architecture)
+
+[4] DigitalOcean,[ How To Install Linux, Apache, MySQL, PHP (LAMP) stack on Ubuntu 18.04] ( https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04)
 
 
