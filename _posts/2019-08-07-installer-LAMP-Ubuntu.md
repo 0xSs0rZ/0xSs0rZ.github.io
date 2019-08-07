@@ -8,7 +8,7 @@ tags: [Ubuntu, Disco Dingo, LAMP]
 comments: true
 ---
 
-**Vous venez d'installer Ubuntu 19. 04 Disco Dingo et voulez passer à l'étape suivante en installant LAMP sur votre machine. Voici les étapes à suivre.**
+**Vous venez d'installer Ubuntu 19.04 Disco Dingo et voulez passer à l'étape suivante en installant LAMP sur votre machine. Voici les étapes à suivre.**
 
 ## Préalables: Installer Ubuntu
 
