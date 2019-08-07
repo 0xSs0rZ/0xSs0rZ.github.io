@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Installer LAMP sous Ubuntu 19.04 Disco Dingo
-subtitle: 
+title: Installer LAMP sous Ubuntu 19.04
+subtitle: Ubuntu 19.04 Disco Dingo 
 gh-repo: 0xSs0rZ/0xSs0rZ.github.io
 gh-badge: [star, fork, follow]
 tags: [Ubuntu, Disco Dingo, LAMP]
