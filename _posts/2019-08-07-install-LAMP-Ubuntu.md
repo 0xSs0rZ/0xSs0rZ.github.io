@@ -10,15 +10,15 @@ comments: true
 
 **Vous venez d'installer Ubuntu 19. 04 Disco Dingo et voulez passer à l'étape suivante en installant LAMP sur votre machine. Voici les étapes à suivre.**
 
-##Préalables: Installer Ubuntu##
+## Préalables: Installer Ubuntu
 
 Si vous ne disposez pas encore d'une distribution Ubuntu, une manière simple pour se familiariser avec cet OS consiste à créer une machine virtuelle (VM). Vous pouvez trouver l'ISO d'Ubuntu sur le site de Canonical [1] ou encore utiliser l'image d'une machine virtuelle [2].
 
-##Pourquoi LAMP ?##
+## Pourquoi LAMP ?
 
 LAMP signifie Linux, Apache, MySQL, PHP. Cette pile vous permettra de développer vos sites en suivant une architecture trois tiers [3] et pourquoi pas d'installer Damn Vulnerable Web Application, DVWA, pour commencer à apprendre les bases des tests d'intrusion
 
-##Installer LAMP##
+## Installer LAMP
 
 **1-Installer Apache**
 
@@ -120,6 +120,6 @@ $ sudo rm -rf /var/www/html/test.php
 
 [3] Wikiversity, [Three-Tier Architecture]( https://en.wikiversity.org/wiki/Three-Tier_Architecture)
 
-[4] DigitalOcean,[ How To Install Linux, Apache, MySQL, PHP (LAMP) stack on Ubuntu 18.04] ( https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04)
+[4] DigitalOcean, [How To Install Linux, Apache, MySQL, PHP (LAMP) stack on Ubuntu 18.04] ( https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04)
 
 
