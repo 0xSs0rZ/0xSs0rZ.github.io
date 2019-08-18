@@ -8,6 +8,8 @@ tags: [DVWA, Damn Vulnerable Web Application, Pentest]
 comments: true
 ---
 
+**Damn Vulnerable Web Applicqtion, DVWA, est un incontournable pour tester ses connaissances en hacking d'applicqtion web. Voici comment l'installer:**
+
 ## 1-Description
 
 Damn Vulnerable Web App (DVWA) est une application Web PHP / MySQL extrêmement vulnérable. Ses principaux objectifs sont d'aider les professionnels de la sécurité à tester leurs compétences et leurs outils en toute légalité, d'aider les développeurs Web à mieux comprendre les processus de sécurisation des applications Web et d'aider les enseignants / étudiants à enseigner / apprendre la sécurité des applications Web dans un environnement de salle de classe. [1]
