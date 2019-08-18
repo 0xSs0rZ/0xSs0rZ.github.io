@@ -8,11 +8,11 @@ tags: [DVWA, Damn Vulnerable Web Application, Pentest]
 comments: true
 ---
 
-##1-Description
+## 1-Description
 
 Damn Vulnerable Web App (DVWA) est une application Web PHP / MySQL extrêmement vulnérable. Ses principaux objectifs sont d'aider les professionnels de la sécurité à tester leurs compétences et leurs outils en toute légalité, d'aider les développeurs Web à mieux comprendre les processus de sécurisation des applications Web et d'aider les enseignants / étudiants à enseigner / apprendre la sécurité des applications Web dans un environnement de salle de classe. [1]
 
-##2-Installation
+## 2-Installation
 
 Avant de commencer l'installation de DVWA, vous devez avoir configuré LAMP sur votre machine. Si ce n'est pas encore fqit, consultez [Installer LAMP sur Ubuntu](https://0xss0rz.github.io/2019-08-07-installer-LAMP-Ubuntu/)
 
@@ -73,10 +73,14 @@ Nous utilisons la version 7.2 de PHP. Pour connaitre la version installée sur v
 
 Éditer le fichier /etc/php/7.2/apache2/php.ini et effectuer les modifications suivantes:
 
-•  allow_url_include = on – Permettre les Remote File Inclusions (RFI)
+• allow_url_include = on – Permettre les Remote File Inclusions (RFI)
+
 • allow_url_fopen = on – Permettre les Remote File Inclusions (RFI)
+
 • safe_mode = off – (Si PHP <= v5.4) Permettre les injections SQL (SQLi)
+
 • magic_quotes_gpc = off – (Si PHP <= v5.4) Permettre les injections SQL (SQLi)
+
 • display_errors = off – (Optionnel) Cacher les messages d'alertes PHP, moins verbeux
 
 Modifier le propriétaire du fichier racine d'Apache:
