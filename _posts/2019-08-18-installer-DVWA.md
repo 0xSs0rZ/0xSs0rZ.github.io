@@ -8,7 +8,7 @@ tags: [DVWA, Damn Vulnerable Web Application, Pentest]
 comments: true
 ---
 
-**Damn Vulnerable Web Applicqtion, DVWA, est un incontournable pour tester ses connaissances en hacking d'applicqtion web. Voici comment l'installer:**
+**Damn Vulnerable Web Application, DVWA, est un incontournable pour tester ses connaissances en hacking d'applicqtion web. Voici comment l'installer:**
 
 ## 1-Description
 
@@ -118,8 +118,4 @@ passord: password.
 **Références:**
  
 [1] Damn Vulnerable Web Application (DVWA), [http://www.dvwa.co.uk/](http://www.dvwa.co.uk/)
-
-
-
-
 
