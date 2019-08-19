@@ -16,7 +16,7 @@ Damn Vulnerable Web App (DVWA) est une application Web PHP / MySQL extrêmement 
 
 ## 2-Installation
 
-Avant de commencer l'installation de DVWA, vous devez avoir configuré LAMP sur votre machine. Si ce n'est pas encore fqit, consultez [Installer LAMP sur Ubuntu](https://0xss0rz.github.io/2019-08-07-installer-LAMP-Ubuntu/)
+Avant de commencer l'installation de DVWA, vous devez avoir configuré LAMP sur votre machine. Si ce n'est pas encore fait, consultez [Installer LAMP sur Ubuntu](https://0xss0rz.github.io/2019-08-07-installer-LAMP-Ubuntu/)
 
 **2-1 Télécharger DVWA**
 
