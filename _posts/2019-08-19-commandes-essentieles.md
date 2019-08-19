@@ -10,7 +10,7 @@ comments: false
 
 **Tout peut être fait en ligne de commande :) Voici un résumé des commandes essentielles à connaitre sous Windows et Linux.**
 
-##1-Commandes sous Windows
+## 1-Commandes sous Windows
 
 Pour ouvrir l'invite de commandes: Windows + R ; saisir 'cmd' et Enter
 
@@ -34,7 +34,7 @@ Commandes | Fonction
 **route print** | Afficher la table de routage
 **netsat -a** | Afficher les informations concernant l'état du réseau et les connexions établies
 
-##2- Commandes sous Linux
+## 2- Commandes sous Linux
 
 Commandes | Fonction 
 --- | --- 
