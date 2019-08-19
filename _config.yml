@@ -21,14 +21,6 @@ description: Pentest 101
 # List of links in the navigation bar
 navbar-links:
   #About Me: "aboutme"
-  CTF:
-    - Cyber Talents: "https://cybertalents.com/"
-    - Hack The Box: "https://www.hackthebox.eu/"
-    - Newbie Contest: "https://www.newbiecontest.org/"
-    - Over The Wire: "http://overthewire.org/wargames/"
-    - RingZer0: "https://ringzer0ctf.com/" 
-    - Root Me: "https://www.root-me.org/?lang=fr"
-    - W3 Challs: "https://w3challs.com/challenges/hacking"
   Resources:
     - Debian Documentation: "https://www.debian.org/doc/"
     - EFF: "https://www.eff.org/"
@@ -39,6 +31,14 @@ navbar-links:
     - Python Documentation: "https://www.python.org/doc/"
     - Tails: "https://tails.boum.org/"
     - Tor Project: "https://www.torproject.org/"
+  CTF:
+    - Cyber Talents: "https://cybertalents.com/"
+    - Hack The Box: "https://www.hackthebox.eu/"
+    - Newbie Contest: "https://www.newbiecontest.org/"
+    - Over The Wire: "http://overthewire.org/wargames/"
+    - RingZer0: "https://ringzer0ctf.com/" 
+    - Root Me: "https://www.root-me.org/?lang=fr"
+    - W3 Challs: "https://w3challs.com/challenges/hacking"
   Author's home: "https://0xSs0rZ.github.io/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
