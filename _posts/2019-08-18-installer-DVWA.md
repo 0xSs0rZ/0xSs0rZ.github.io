@@ -3,9 +3,9 @@ layout: post
 title: Installer DVWA
 subtitle: Damn Vulnerable Web Application
 gh-repo: 0xSs0rZ/0xSs0rZ.github.io
-gh-badge: [star, fork, follow]
+gh-badge: [star]
 tags: [DVWA, Damn Vulnerable Web Application, Pentest]
-comments: true
+comments: false
 ---
 
 **Damn Vulnerable Web Application, DVWA, est un incontournable pour tester ses connaissances en hacking d'application web. Voici comment l'installer:**
