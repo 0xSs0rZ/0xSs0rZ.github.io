@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Commandes essentielles sous Windows et Linux
+title: Commandes essentielles
 subtitle: Commandes essentielles sous Windows et Linux
 gh-repo: 0xSs0rZ/0xSs0rZ.github.io
 gh-badge: [star]
