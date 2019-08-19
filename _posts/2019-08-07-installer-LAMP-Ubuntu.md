@@ -3,9 +3,9 @@ layout: post
 title: Installer LAMP sous Ubuntu 19.04
 subtitle: Ubuntu 19.04 Disco Dingo 
 gh-repo: 0xSs0rZ/0xSs0rZ.github.io
-gh-badge: [star, fork, follow]
+gh-badge: [star]
 tags: [Ubuntu, Disco Dingo, LAMP]
-comments: true
+comments: false
 ---
 
 **Vous venez d'installer Ubuntu 19.04 Disco Dingo et voulez passer à l'étape suivante en installant LAMP sur votre machine. Voici les étapes à suivre.**
@@ -16,7 +16,8 @@ Si vous ne disposez pas encore d'une distribution Ubuntu, une manière simple po
 
 ## Pourquoi LAMP ?
 
-LAMP signifie Linux, Apache, MySQL, PHP. Cette pile vous permettra de développer vos sites en suivant une architecture trois tiers [3] et pourquoi pas d'installer Damn Vulnerable Web Application, DVWA, pour commencer à apprendre les bases des tests d'intrusion
+LAMP signifie Linux, Apache, MySQL, PHP. Cette pile vous permettra de développer vos sites en suivant une architecture trois tiers [3] et pourquoi pas d'[installer Damn Vulnerable Web Application](https://0xss0rz.github.io/2019-08-18-installer-DVWA/), DVWA, pour commencer à apprendre les bases des tests d'intrusion
+
 
 ## Installer LAMP
 
