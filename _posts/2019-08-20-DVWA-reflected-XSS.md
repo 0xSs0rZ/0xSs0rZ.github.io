@@ -158,11 +158,8 @@ A priori, pas de solution possible. Le site est sécurisé.
 Red Team: 0 - Blue Team: 1
 
 **Références:**
-
 [1] Cross-site scripting, [https://fr.wikipedia.org/wiki/Cross-site_scripting#XSS_r%C3%A9fl%C3%A9chi_(ou_non_permanent)](https://fr.wikipedia.org/wiki/Cross-site_scripting#XSS_r%C3%A9fl%C3%A9chi_(ou_non_permanent))
-
 [2] OWASP, Cross-site Scripting (XSS), [https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
-
 [3] OWASP, XSS Filter Evasion Cheat Sheet, [https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
 
 
