@@ -46,7 +46,7 @@ Ref: [https://www.malwarebytes.com/ransomware/](https://www.malwarebytes.com/ran
 
 ## TrendMicro Conference
 
-Periodic Conference in many cities hosted by Trend Micro
+**Periodic Conference in many cities hosted by Trend Micro**
 
 Ref: [https://www.cloudsec.com/sg/](https://www.cloudsec.com/sg/)
 
