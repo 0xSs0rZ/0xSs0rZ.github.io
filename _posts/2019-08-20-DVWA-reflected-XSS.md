@@ -12,7 +12,7 @@ comments: false
 
 ## 0x00 - XSS réfléchi 
 
-Une vulnérabilité _Refflected_ _XSS_ apparaît lorsque des données fournies par un client web sont utilisées telles quelles par les scripts du serveur pour produire une page de résultats. Ces données non vérifiées peuvent être utilisées pour injecter du code dans la page dynamique reçue par le navigateur client. [1][2]
+Une vulnérabilité _Reflected_ _XSS_ apparaît lorsque des données fournies par un client web sont utilisées telles quelles par les scripts du serveur pour produire une page de résultats. Ces données non vérifiées peuvent être utilisées pour injecter du code dans la page dynamique reçue par le navigateur client. [1][2]
 
 ## 0x01 - Security level: Low
 
