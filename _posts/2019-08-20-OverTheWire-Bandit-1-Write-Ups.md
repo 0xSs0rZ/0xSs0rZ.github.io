@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Over The Wire - Bandit 1
-subtitle: Over The Wire - Bandit - Level 0 - 11 
+title: OverTheWire - Bandit 1
+subtitle: OverTheWire - Bandit - Level 0 - 11 
 gh-repo: 0xSs0rZ/0xSs0rZ.github.io
 gh-badge: [star]
 tags: [CTF, Over The Wire, Bandit, Write_Up]
 comments: false
 ---
 
-**Le Wargame d' _Over_ _The_ _Wire_ est l'endroit idéal pour se dérouiller les doigts et parfaire ses connaissances des commandes Linux. Voici les solutions des niveaux 0 à 11 du jeu _Bandit_**
+**Le Wargame d' _OverTheWire_ est l'endroit idéal pour se dérouiller les doigts et parfaire ses connaissances des commandes Linux. Voici les solutions des niveaux 0 à 11 du jeu _Bandit_**
 
 ## 0x00 - Bandit Level 0
 
