@@ -69,7 +69,7 @@ Mesure de sécurité mise en place: effacer la balise script
 $name = str_replace( '<script>', '', $_GET[ 'name' ] );
 ~~~
 
-_Solution:_ utiliser un autre type de balise que <script> ou modifier son format
+_Solution:_ utiliser un autre type de balise que script ou modifier son format
 
 **Payload:**
 
