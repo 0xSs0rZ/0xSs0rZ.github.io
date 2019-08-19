@@ -3,9 +3,9 @@ layout: post
 title: Installer LAMP sous Ubuntu 19.04
 subtitle: Ubuntu 19.04 Disco Dingo 
 gh-repo: 0xSs0rZ/0xSs0rZ.github.io
-gh-badge: [star, fork, follow]
+gh-badge: [star]
 tags: [Ubuntu, Disco Dingo, LAMP]
-comments: true
+comments: false
 ---
 
 **Vous venez d'installer Ubuntu 19.04 Disco Dingo et voulez passer à l'étape suivante en installant LAMP sur votre machine. Voici les étapes à suivre.**
