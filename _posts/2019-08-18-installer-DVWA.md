@@ -4,7 +4,7 @@ title: Installer DVWA
 subtitle: Damn Vulnerable Web Application
 gh-repo: 0xSs0rZ/0xSs0rZ.github.io
 gh-badge: [star]
-tags: [DVWA, Damn Vulnerable Web Application, Pentest]
+tags: [DVWA, Web App, Pentest]
 comments: false
 ---
 
