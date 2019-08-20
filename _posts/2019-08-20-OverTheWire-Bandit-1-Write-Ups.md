@@ -10,6 +10,8 @@ comments: false
 
 **Le Wargame d' _OverTheWire_ est l'endroit idéal pour se dérouiller les doigts et parfaire ses connaissances des commandes Linux. Voici les solutions des niveaux 0 à 11 du jeu _Bandit_**
 
+Avant de débuter ce _wargame_, si vous ne maitrisez pas encore les commandes essentielles sous Linux, visitez: [Commandes essentielles](https://0xss0rz.github.io/2019-08-19-commandes-essentieles/)
+
 ## 0x00 - Bandit Level 0
 
 The goal of this level is for you to log into the game using SSH. The host to which you need to connect is bandit.labs.overthewire.org, on port 2220. The username is bandit0 and the password is bandit0. Once logged in, go to the Level 1 page to find out how to beat Level 1.
