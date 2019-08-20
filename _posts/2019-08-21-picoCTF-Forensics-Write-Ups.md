@@ -28,12 +28,12 @@ Hmm for some reason I can't open this PNG? Any ideas?
 
 Regarder l'hexadécimal du fichier:
 
-~~
+~~~
 $xxd flag.png 
 00000000: ffd8 ffe0 0010 4a46 4946 0001 0101 004b  ......JFIF.....K
 00000010: 004b 0000 ffdb 0043 0002 0101 0201 0102  .K.....C........
 (...)
-~~
+~~~
 
 On voit: JFIF. L'extension du fichier a été modifiée, il ne s'agit pas d'un fichier PNG mais JPEG. Modifier l'extension en jpeg et ouvrir la photo
 
