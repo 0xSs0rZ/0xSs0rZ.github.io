@@ -4,7 +4,7 @@ title: DVWA - XSS réfléchi
 subtitle: Reflected XSS - Solutions
 gh-repo: 0xSs0rZ/0xSs0rZ.github.io
 gh-badge: [star]
-tags: [DVWA, XSS, solutions]
+tags: [DVWA, XSS, solutions, Web App]
 comments: false
 ---
 
