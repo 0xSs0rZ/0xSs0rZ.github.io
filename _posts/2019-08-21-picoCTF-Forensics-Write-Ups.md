@@ -29,8 +29,7 @@ Hmm for some reason I can't open this PNG? Any ideas?
 Regarder l'hexadécimal du fichier:
 
 ~~
-┌─[✗]─[xor@parrot]─[~/Téléchargements]
-└──╼ $xxd flag.png 
+$xxd flag.png 
 00000000: ffd8 ffe0 0010 4a46 4946 0001 0101 004b  ......JFIF.....K
 00000010: 004b 0000 ffdb 0043 0002 0101 0201 0102  .K.....C........
 (...)
