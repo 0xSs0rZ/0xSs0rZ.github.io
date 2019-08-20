@@ -4,7 +4,7 @@ title: OverTheWire - Bandit 1
 subtitle: OverTheWire - Bandit - Level 0 → 11 
 gh-repo: 0xSs0rZ/0xSs0rZ.github.io
 gh-badge: [star]
-tags: [CTF, OverTheWire, Bandit, Write-Up]
+tags: [CTF, OverTheWire, Réseautique, Commandes, Write-Up]
 comments: false
 ---
 
