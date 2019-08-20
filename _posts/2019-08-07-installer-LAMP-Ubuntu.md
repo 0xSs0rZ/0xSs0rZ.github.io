@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Installer LAMP sous Ubuntu 19.04
+title: Installer LAMP sous Ubuntu 
 subtitle: Ubuntu 19.04 Disco Dingo 
 gh-repo: 0xSs0rZ/0xSs0rZ.github.io
 gh-badge: [star]
-tags: [Ubuntu, Disco Dingo, LAMP]
+tags: [Ubuntu, LAMP]
 comments: false
 ---
 
@@ -124,4 +124,7 @@ $ sudo rm -rf /var/www/html/test.php
 [4] DigitalOcean, [How To Install Linux Apache MySQL PHP LAMP stack on Ubuntu 18.04] ( https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04)
 
 
+[![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
