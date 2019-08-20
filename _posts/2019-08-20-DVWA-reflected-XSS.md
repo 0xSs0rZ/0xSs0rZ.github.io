@@ -10,6 +10,8 @@ comments: false
 
 **Voici quelques solutions (liste non exhaustive) pour la catégorie "Reflected XSS" de Damn Vulnerable Web App, DVWA**
 
+Si vous n'avez pas encore installé DVWA, consultez: [Installer DVWA](https://0xss0rz.github.io/2019-08-18-installer-DVWA/)
+
 ## 0x00 - XSS réfléchi 
 
 Une vulnérabilité _Reflected_ _XSS_ apparaît lorsque des données fournies par un client web sont utilisées telles quelles par les scripts du serveur pour produire une page de résultats. Ces données non vérifiées peuvent être utilisées pour injecter du code dans la page dynamique reçue par le navigateur client. [1][2]
@@ -156,6 +158,8 @@ $name = htmlspecialchars( $_GET[ 'name' ] );
 A priori, pas de solution possible. Le site est sécurisé.
 
 Red Team: 0 - Blue Team: 1
+
+# Continuez à tester vos connaissances des failles XSS avec: [XSS Game - Solutions](https://0xss0rz.github.io/2019-08-21-XXS-game/)
 
 **Références:**
 
