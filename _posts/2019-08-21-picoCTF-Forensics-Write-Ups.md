@@ -71,7 +71,7 @@ Great job. You've earned the flag:
 #####################
 ~~~
 
-### Reading Between the Eyes 
+## Reading Between the Eyes 
 
 {: .box-note}
 Stego-Saurus hid a message for you in this image, can you retreive it? 
@@ -98,9 +98,9 @@ Dans _$CarvedFiles_ il y a 4 fichiers jpg, le flag est dans f0002388.jpg
 {: .box-note}
 We captured some traffic logging into the admin panel, can you find the password? 
 
-**Solution:** On ouvre le fichier pcap avec Wireshark. On fait un recherche de la chaine 'password'. On voit que la trame 68 est un _POST /LOGIN_, on trouve le username et le password = flag
+**Solution:** On ouvre le fichier pcap avec Wireshark. On fait un recherche de la chaîne 'password'. On voit que la trame 68 est un _POST /LOGIN_, on trouve le username et le password = flag
 
-## hex editor
+## hexeditor
 
 {: .box-note}
 This cat has a secret to teach you. You can also find the file in /problems/hex-editor_4_0a7282b29fa47d68c3e2917a5a0d726b on the shell server. 
