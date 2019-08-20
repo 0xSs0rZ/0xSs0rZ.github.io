@@ -76,7 +76,7 @@ Great job. You've earned the flag:
 {: .box-note}
 Stego-Saurus hid a message for you in this image, can you retreive it? 
 
-On observe l'image en  zoomant au max mais on ne trouve rien, on recherche dans l'hexadécimal un chaine "picoCTF", on trouve rien non plus...
+On observe l'image en  zoomant au max mais on ne trouve rien, on recherche dans l'hexadécimal une chaîne "picoCTF", on trouve rien non plus...
 
 _Hint:_ Maybe you can find an online decoder?
 
