@@ -159,7 +159,7 @@ A priori, pas de solution possible. Le site est sécurisé.
 
 Red Team: 0 - Blue Team: 1
 
-### Continuez à tester vos connaissances des failles XSS avec: [XSS Game - Solutions](https://0xss0rz.github.io/2019-08-21-XXS-game/)
+**Continuez à tester vos connaissances des failles XSS avec: [XSS Game - Solutions](https://0xss0rz.github.io/2019-08-21-XXS-game/)**
 
 **Références:**
 
