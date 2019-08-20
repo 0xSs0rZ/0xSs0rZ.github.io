@@ -180,7 +180,7 @@ Great job. You've earned the flag:
 {: .box-note}
 Say my name, say my name. 
 
-**Solution:** Ouvrir le fichier pcap avec Wireshark. A la trame 43 on voit un requete DNS _thisismyname.com_, la réponse à cette requête est située à la trame 55. On trouve le flag dans cette réponse.
+**Solution:** Ouvrir le fichier pcap avec Wireshark. A la trame 43 on voit une requête DNS _thisismyname.com_, la réponse à cette requête est située à la trame 55. On trouve le flag dans cette réponse.
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
