@@ -10,7 +10,7 @@ comments: false
 
 **Et si on se prenait pour un investigateur numérique ? Voici quelques solutions pour la catégorie _"Forensics"_ de picoCTF.**
 
-picoCT: [https://2018game.picoctf.com/](https://2018game.picoctf.com/)
+picoCTF: [https://2018game.picoctf.com/](https://2018game.picoctf.com/)
 
 ## Forensics Warmup 1
 
