@@ -50,7 +50,7 @@ Se connecter à l'adresse indiquer:
 $nc 2018shell.picoctf.com 54782
 You'll need to consult the file `incidents.json` to answer the following questions.
 
-#Faire quelques calculs simple pour répondre aux questions
+#Faire quelques calculs simples pour répondre aux questions
 
 What is the most common source IP address? If there is more than one IP address that is the most common, you may give any of the most common ones.
 ##########
