@@ -214,7 +214,7 @@ Explications:
 /bin/sh pour lancer le shell bach
 
 {: .box-warning}
-**Warning:** Il faut utiliser le compte de bandit17
+**Warning:** Il faut utiliser le compte bandit17
 
 **Solution:**
 
