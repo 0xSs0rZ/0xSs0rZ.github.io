@@ -12,6 +12,8 @@ comments: false
 
 Avant de débuter ce _wargame_, si vous ne maitrisez pas encore les commandes essentielles sous Linux, visitez: [Commandes essentielles](https://0xss0rz.github.io/2019-08-19-commandes-essentieles/)
 
+OverTheWire - Bandit: [http://overthewire.org/wargames/bandit/](http://overthewire.org/wargames/bandit/)
+
 ## 0x00 - Bandit Level 0
 
 The goal of this level is for you to log into the game using SSH. The host to which you need to connect is bandit.labs.overthewire.org, on port 2220. The username is bandit0 and the password is bandit0. Once logged in, go to the Level 1 page to find out how to beat Level 1.
