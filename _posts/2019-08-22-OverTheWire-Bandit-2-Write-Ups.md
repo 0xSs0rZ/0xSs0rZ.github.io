@@ -213,7 +213,8 @@ Explications:
 -t pour forcer la connection sur un port tty: terminal = tty = text input/output environment
 /bin/sh pour lancer le shell bach
 
-/!\ il faut être loggué sur le compte de bandit17
+{: .box-warning}
+**Warning:** Il faut utiliser le compte de bandit17
 
 **Solution:**
 
@@ -252,7 +253,7 @@ bandit19@bandit:~$ ls -la
 total 28
 drwxr-xr-x  2 root     root     4096 Oct 16  2018 .
 drwxr-xr-x 41 root     root     4096 Oct 16  2018 ..
--rwsr-x---  1 **bandit20** bandit19 7296 Oct 16  2018 bandit20-do
+-rwsr-x---  1 bandit20 bandit19 7296 Oct 16  2018 bandit20-do
 -rw-r--r--  1 root     root      220 May 15  2017 .bash_logout
 -rw-r--r--  1 root     root     3526 May 15  2017 .bashrc
 -rw-r--r--  1 root     root      675 May 15  2017 .profile
