@@ -33,7 +33,7 @@ Can you convert the number 27 (base 10) to binary (base 2)?
 {: .box-note}
 What is 0x3D (base 16) in decimal (base 10). 
 
-**Solution: [https://www.rapidtables.com/convert/number/index.html](https://www.rapidtables.com/convert/number/index.html)
+**Solution:** [https://www.rapidtables.com/convert/number/index.html](https://www.rapidtables.com/convert/number/index.html)
 
 ##  Resources
 
