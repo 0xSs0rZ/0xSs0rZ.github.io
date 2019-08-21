@@ -91,7 +91,7 @@ Can you find the flag in this file without actually running it? You can also fin
 ~~~
 ┌─[xor@parrot]─[~/Téléchargements]
 └──╼ $strings strings | grep picoCTF
-picoCTF{quelques chose}
+picoCTF{quelquechose}
 ~~~
 
 ## pipe
@@ -224,7 +224,7 @@ _Ref:_ [https://www.digitalocean.com/community/tutorials/how-to-read-and-set-env
 
 ~~~
 0xSs0rZ@pico-2018-shell:~$ printenv                                                                            
-SECRET_FLAG=picoCTF{eNv1r0nM3nT_v4r14Bl3_fL4g_3758492}                                                         
+SECRET_FLAG=picoCTF{quelquechose}                                                         
 FLAG=Finding the flag wont be that easy...                                                                     
 TERM=xterm                                                                                                     
 SHELL=/bin/bash                                                                                                
