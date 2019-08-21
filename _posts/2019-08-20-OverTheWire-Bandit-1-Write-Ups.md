@@ -183,6 +183,8 @@ Solution:
 bandit10@bandit:~$ base64 -d data.txt 
 ~~~
 
+**Poursuivez avec les niveaux 11 à 23 ici: [OverTheWire - Bandit 2](https://0xss0rz.github.io/2019-08-22-OverTheWire-Bandit-2-Write-Ups/)**
+
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
