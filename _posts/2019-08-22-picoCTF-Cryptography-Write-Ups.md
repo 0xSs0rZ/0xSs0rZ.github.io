@@ -95,7 +95,7 @@ My buddy Blaise told me he learned about this cool cipher invented by a guy also
 
 _Tools_: [https://www.boxentriq.com/code-breaking/vigenere-cipher](https://www.boxentriq.com/code-breaking/vigenere-cipher)
 
-*Solution:**
+**Solution:**
 
 ~~~
 $nc 2018shell.picoctf.com 26039
