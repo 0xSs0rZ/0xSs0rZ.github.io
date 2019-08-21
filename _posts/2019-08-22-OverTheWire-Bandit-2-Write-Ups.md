@@ -185,7 +185,7 @@ vBgsyi/sN3RqRBcGU40fOoZyfAMT8s1m/uYv52O6IgeuZ/ujbjY=
 -----END RSA PRIVATE KEY-----
 ~~~
 
-La clé ssh est le credential pour le prochain niveau.
+La clé SSH est le credential pour le prochain niveau.
 Copier la et enregistrer la dans un fichier. Voir Bandit Level 13 → 14 pour utiliser une clé lors d'une connexion SSH.
 
 ## 0x06 - Bandit Level 17 → Level 18
