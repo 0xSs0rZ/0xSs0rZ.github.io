@@ -10,7 +10,7 @@ comments: false
 
 **Nous continuons notre série sur le wargame _Bandit_ d' _OverTheWire._ Voici les solutions pour les niveaux 11 à 23**
 
-Retrouvez les solutions pour les niveaux 0 à 11 ici: [OverTheWire - Bandit 2](https://0xss0rz.github.io/2019-08-20-OverTheWire-Bandit-1-Write-Ups/)
+Retrouvez les solutions pour les niveaux 0 à 11 ici: [OverTheWire - Bandit 1](https://0xss0rz.github.io/2019-08-20-OverTheWire-Bandit-1-Write-Ups/)
 
 ## 0x00 - Bandit Level 11 → Level 12
 
