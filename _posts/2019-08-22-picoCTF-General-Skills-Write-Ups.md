@@ -16,25 +16,29 @@ picoCTF 2018: [https://2018game.picoctf.com/](https://2018game.picoctf.com/)
 
 ## General Warmup 1
 
-{: .box-note}If I told you your grade was 0x41 in hexadecimal, what would it be in ASCII? 
+{: .box-note}
+If I told you your grade was 0x41 in hexadecimal, what would it be in ASCII? 
 
 **Solution:** [https://www.rapidtables.com/convert/number/hex-to-ascii.html](https://www.rapidtables.com/convert/number/hex-to-ascii.html)
 
 ## General Warmup 2
 
-{: .box-note}Can you convert the number 27 (base 10) to binary (base 2)? 
+{: .box-note}
+Can you convert the number 27 (base 10) to binary (base 2)? 
 
 **Solution:** [https://www.rapidtables.com/convert/number/decimal-to-binary.html](https://www.rapidtables.com/convert/number/decimal-to-binary.html)
 
 ## General Warmup 3
 
-{: .box-note}What is 0x3D (base 16) in decimal (base 10). 
+{: .box-note}
+What is 0x3D (base 16) in decimal (base 10). 
 
 **Solution: [https://www.rapidtables.com/convert/number/index.html](https://www.rapidtables.com/convert/number/index.html)
 
 ##  Resources
 
-{: .box-note}We put together a bunch of resources to help you out on our website! If you go over there, you might even find a flag! https://picoctf.com/resources
+{: .box-note}
+We put together a bunch of resources to help you out on our website! If you go over there, you might even find a flag! https://picoctf.com/resources
 
 **Solution:** Clic droit - Code source
 
@@ -46,7 +50,8 @@ Thanks for reading the resources page! Here’s a flag for your time: picoCTF{qu
 
 ## grep 1
 
-{: .box-note}Can you find the flag in file? This would be really obnoxious to look through by hand, see if you can find a faster way. You can also find the file in /problems/grep-1_3_8d9cff3d178c231ab735dfef3267a1c2 on the shell server. 
+{: .box-note}
+Can you find the flag in file? This would be really obnoxious to look through by hand, see if you can find a faster way. You can also find the file in /problems/grep-1_3_8d9cff3d178c231ab735dfef3267a1c2 on the shell server. 
 
 **Solution:**
 
@@ -58,7 +63,8 @@ picoCTF{quelquechose}
 
 ## net cat 
 
-{: .box-note}Using netcat (nc) will be a necessity throughout your adventure. Can you connect to 2018shell.picoctf.com at port 10854 to get the flag? 
+{: .box-note}
+Using netcat (nc) will be a necessity throughout your adventure. Can you connect to 2018shell.picoctf.com at port 10854 to get the flag? 
 
 **Solution:**
 
@@ -77,7 +83,8 @@ picoCTF{quelquechose}
 
 ## strings
 
-{: .box-note}Can you find the flag in this file without actually running it? You can also find the file in /problems/strings_3_1dbaafa1f8f0556872cad33e16bc8dc7 on the shell server.
+{: .box-note}
+Can you find the flag in this file without actually running it? You can also find the file in /problems/strings_3_1dbaafa1f8f0556872cad33e16bc8dc7 on the shell server.
 
 **Solution:**
 
@@ -89,7 +96,8 @@ picoCTF{quelques chose}
 
 ## pipe
 
-{: .box-note}During your adventure, you will likely encounter a situation where you need to process data that you receive over the network rather than through a file. Can you find a way to save the output from this program and search for the flag? Connect with 2018shell.picoctf.com 37542. 
+{: .box-note}
+During your adventure, you will likely encounter a situation where you need to process data that you receive over the network rather than through a file. Can you find a way to save the output from this program and search for the flag? Connect with 2018shell.picoctf.com 37542. 
 
 **Solution:**
 
@@ -101,7 +109,8 @@ picoCTF{quelquechose}
 
 ## grep 2
 
-{: .box-note}This one is a little bit harder. Can you find the flag in /problems/grep-2_3_826f886f547acb8a9c3fccb030e8168d/files on the shell server? Remember, grep is your friend. 
+{: .box-note}
+This one is a little bit harder. Can you find the flag in /problems/grep-2_3_826f886f547acb8a9c3fccb030e8168d/files on the shell server? Remember, grep is your friend. 
 
 **Solution:**
 
@@ -130,7 +139,8 @@ picoCTF{quelquechose}
 
 ## Aca-Shell-A
 
-{: .box-note}It's never a bad idea to brush up on those linux skills or even learn some new ones before you set off on this adventure! Connect with nc 2018shell.picoctf.com 6903. 
+{: .box-note}
+It's never a bad idea to brush up on those linux skills or even learn some new ones before you set off on this adventure! Connect with nc 2018shell.picoctf.com 6903. 
 
 **Solution:**
 
@@ -205,7 +215,8 @@ picoCTF{quelquechose}
 
 ## environ
 
-{: .box-note}Sometimes you have to configure environment variables before executing a program. Can you find the flag we've hidden in an environment variable on the shell server? 
+{: .box-note}
+Sometimes you have to configure environment variables before executing a program. Can you find the flag we've hidden in an environment variable on the shell server? 
 
 _Ref:_ [https://www.digitalocean.com/community/tutorials/how-to-read-and-set-environmental-and-shell-variables-on-a-linux-vps](https://www.digitalocean.com/community/tutorials/how-to-read-and-set-environmental-and-shell-variables-on-a-linux-vps)
 
@@ -252,7 +263,8 @@ _=/usr/bin/printenv
 
 ## ssh-keyz
 
-{: .box-note}As nice as it is to use our webshell, sometimes its helpful to connect directly to our machine. To do so, please add your own public key to ~/.ssh/authorized_keys, using the webshell. The flag is in the ssh banner which will be displayed when you login remotely with ssh to with your username. 
+{: .box-note}
+As nice as it is to use our webshell, sometimes its helpful to connect directly to our machine. To do so, please add your own public key to ~/.ssh/authorized_keys, using the webshell. The flag is in the ssh banner which will be displayed when you login remotely with ssh to with your username. 
 
 _Ref_: [https://www.maketecheasier.com/generate-public-private-ssh-key/](https://www.maketecheasier.com/generate-public-private-ssh-key/)
 
@@ -295,7 +307,8 @@ picoCTF{quelquechose}
 
 ## what base is this?
 
-{: .box-note}To be successful on your mission, you must be able read data represented in different ways, such as hexadecimal or binary. Can you get the flag from this program to prove you are ready? Connect with nc 2018shell.picoctf.com 15853.
+{: .box-note}
+To be successful on your mission, you must be able read data represented in different ways, such as hexadecimal or binary. Can you get the flag from this program to prove you are ready? Connect with nc 2018shell.picoctf.com 15853.
 
 **Tools:**
 
@@ -325,7 +338,8 @@ Flag: picoCTF{quelquechose}
 
 ## you can't see me
 
-{: .box-note}'...reading transmission... Y.O.U. .C.A.N.'.T. .S.E.E. .M.E. ...transmission ended...' Maybe something lies in /problems/you-can-t-see-me_4_8bd1412e56df49a3c3757ebeb7ead77f.
+{: .box-note}
+'...reading transmission... Y.O.U. .C.A.N.'.T. .S.E.E. .M.E. ...transmission ended...' Maybe something lies in /problems/you-can-t-see-me_4_8bd1412e56df49a3c3757ebeb7ead77f.
 
 **Solution:**
 
