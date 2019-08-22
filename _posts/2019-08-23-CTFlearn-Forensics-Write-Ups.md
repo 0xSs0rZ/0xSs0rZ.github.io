@@ -350,9 +350,7 @@ Vous pouvez aussi consulter les données EXIF pour trouver le flag: [https://onl
 
 My colleague's an astronaut who's currently on a mission orbiting in space. Just a few hours ago, unfortunately, his communication device caught fire so he's unable to report back to base. I did, however, receive a strange file that I can't seem to open. I think it may shed some light on his situation. Can you help me save poor boy Johnny? File: https://mega.nz/#!LTRUTaZb!9Nh0NwDONJQiOThif3G62evP8H_W9eIJSu0PdBQWKyg
 
-_Ref:_
-
-- [https://en.wikipedia.org/wiki/Ogg](https://en.wikipedia.org/wiki/Ogg)
+_Ref:_ [https://en.wikipedia.org/wiki/Ogg](https://en.wikipedia.org/wiki/Ogg)
 
 **Solution:**
 
