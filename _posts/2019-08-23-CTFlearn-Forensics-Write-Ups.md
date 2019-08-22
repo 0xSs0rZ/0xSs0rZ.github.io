@@ -219,18 +219,15 @@ Les étapes pour décoder un stéréogramme avec GIMP sont exposées dans cet ar
 
 1. Ouvrir le fichier dans GIMP. Dupliquer le calque.
 
-![Crepe]
-(https://github.com/0xSs0rZ/0xSs0rZ.github.io/blob/master/img/gimp-duplicate-layers.png){: .center-block :}
+![Crepe](/img/gimp-duplicate-layers.png){: .center-block :}
 
 2. Changer le mode, de Normal à Différence
 
-![Crepe]
-(https://github.com/0xSs0rZ/0xSs0rZ.github.io/blob/master/img/gimp-difference.png){: .center-block :}
+![Crepe](/img/gimp-difference.png){: .center-block :}
 
 3. Sélectionner l'Outil de déplacement
 
-![Crepe]
-(https://github.com/0xSs0rZ/0xSs0rZ.github.io/blob/master/img/gimp-move-tool.png){: .center-block :}
+![Crepe](/img/gimp-move-tool.png){: .center-block :}
 
 4. Déplacer le calque sur la droite à l'aide de la flèche droite jusqu'à ce qu'on trouve le flag
 
