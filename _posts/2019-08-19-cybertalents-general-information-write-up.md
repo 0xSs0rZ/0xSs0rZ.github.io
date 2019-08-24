@@ -4,7 +4,7 @@ title: Cyber Talents - General Information
 subtitle: General Information - Write-Ups
 gh-repo: 0xSs0rZ/0xSs0rZ.github.io
 gh-badge: [star]
-tags: [CTF, Write-Up]
+tags: [CTF, Cyber Talents, Write-Up]
 comments: false
 ---
 
