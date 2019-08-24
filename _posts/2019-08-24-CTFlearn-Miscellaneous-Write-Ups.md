@@ -59,10 +59,12 @@ Next target identified, I need help with some coding, specifically java, message
 
 Not much to go off here, but it’s all you need: Wikipedia and 128.125.52.138. 
 
-**Solution:*** 
+**Solution:** 
 
 1/ https://en.wikipedia.org/wiki/Special:Contributions/128.125.52.138
+
 2/ https://en.wikipedia.org/w/index.php?title=Flag&oldid=676540540
+
 3/ 'In a certain CTF competition, the flag to a certain problem is ******'
 
 # QR Code
@@ -97,7 +99,7 @@ Bob is an amateur hacker and has collected the following IP Address: 159.167.16.
 
 ## Help Bity
 
-Bity had the flag for his problem. Unfortunately, his negative friend Noty corrupted it. Help Bity retrieve his flag. He only remembers the first 4 characters of the flag: CTFL. Flag: BUGMd`sozc0o`sx^0r^`vdr1ld|
+Bity had the flag for his problem. Unfortunately, his negative friend Noty corrupted it. Help Bity retrieve his flag. He only remembers the first 4 characters of the flag: CTFL. Flag: BUGMd`sozc0o`sx^0r^`vdr1ld
 
 _Indice:_ Bit Flip
 
@@ -115,7 +117,7 @@ CTFLearn en binaire donne:
 
 On remarque le dernier bit a été flippé
 
-BUGMd`sozc0o`sx^0r^`vdr1ld| donne: 
+BUGMd`sozc0o`sx^0r^`vdr1ld donne: 
 
 01000010 01010101 01000111 01001101 01100100 01100000 01110011 01101111 01111010 01100011 00110000 01101111 01100000 01110011 01111000 01011110 00110000 01110010 01011110 01100000 01110110 01100100 01110010 00110001 01101100 01100100 01111100
 
@@ -123,7 +125,7 @@ On flippe les bits et on a le flag:
 
 01000011 01010100 01000110 01001100 01100101 01100001 01110010 01101110 01111011 01100010 00110001 01101110 01100001 01110010 01111001 01011111 00110001 01110011 01011111 01100001 01110111 01100101 01110011 00110000 01101101 01100101 01111101
 
-## Ambush Mission
+## Ambush Mission
 
 Hi, i can't tell you my name since now i'm in a mission. In case to arrest our fugitive target, our team had been intercepted communication between the target with his fellow and found this image (https://mega.nz/#!TKZ3DabY!BEUHD7VJvq_b-M22eD4VfHv_PPBnW2m7CZUfMbveZYw). It looks like they are going to meet in specific place, but we still don't know the time yet. Can you help me ?
 
