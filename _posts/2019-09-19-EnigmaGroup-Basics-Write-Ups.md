@@ -186,7 +186,7 @@ window.location.href="http://challenges.enigmagroup.org/basics/js/5/"+unescape(p
 
 On décode %41%53%43%49%49%2D%43%68%61%72%74 encodé en HTML URL. [https://www.urldecoder.org/](https://www.urldecoder.org/)
 
-#Spoofing
+# Spoofing
 
 ## Basic 16 
 
@@ -209,7 +209,7 @@ Info: You must be using the "EnigmaFox" web browser.
 
 Spoofing du user-agent en utilisant Burp
 
-#SQL Injection
+# SQL Injection
 
 ## Basic 21
 
