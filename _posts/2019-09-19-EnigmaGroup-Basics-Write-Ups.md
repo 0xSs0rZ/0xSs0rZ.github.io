@@ -4,7 +4,7 @@ title: Enigma Group - Basics
 subtitle: Enigma Group - Basics - Write-Ups 
 gh-repo: 0xSs0rZ/0xSs0rZ.github.io
 gh-badge: [star]
-tags: [CTF, Enigma Group, Basics, Commandes, Javascript, Web App, Local Fi SQLi, Write-Up]
+tags: [CTF, Enigma Group, Basics, Commandes, Javascript, Web App, Local File Inclusion, SQLi, Write-Up]
 comments: false
 ---
 
