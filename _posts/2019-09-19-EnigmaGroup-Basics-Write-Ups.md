@@ -14,7 +14,7 @@ Enigma Group: [https://www.enigmagroup.org/](https://www.enigmagroup.org/)
 
 # Basics - Starter
 
-##1 Basic 1
+## Basic 1
 
 Level 1 - The Infamous Noob Test
 
@@ -24,7 +24,7 @@ Find the password to complete this mission.
 
 Clic droit - code source, on trouve le mot de passe dans un commentaire
 
-##2 Basic 2
+## Basic 2
 
 fopen: could not open file '/www/htdocs/challenges/basics/pre/2/dontlookinhere/password.txt';
 
@@ -40,7 +40,7 @@ On visite http://challenges.enigmagroup.org/basics/pre/2/dontlookinhere/
 
 Il y a un fichier nommé password.inc on le consulte on trouve un mot de passe pour le compte admin
 
-##3 Basic 3
+## Basic 3
 
 Tip: robot
 
@@ -327,72 +327,4 @@ Mission completed
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Poursuivez avec:**
-
-- [PicoCTF 2018 - Forensics](https://0xss0rz.github.io/2019-08-21-picoCTF-Forensics-Write-Ups/)
-
-- [PicoCTF 2018 - General Skills](https://0xss0rz.github.io/2019-08-22-picoCTF-General-Skills-Write-Ups/)
-
-- [PicoCTF 2018 - Cryptography](https://0xss0rz.github.io/2019-08-22-picoCTF-Cryptography-Write-Ups/)
-
-[![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
 
