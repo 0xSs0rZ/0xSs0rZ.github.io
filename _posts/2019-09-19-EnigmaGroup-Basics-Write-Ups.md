@@ -217,7 +217,7 @@ Spoofing du user-agent en utilisant Burp
 
 x' or 1=1--
 
-#URL Manipulation
+# URL Manipulation
 
 ## Basic 27
 
