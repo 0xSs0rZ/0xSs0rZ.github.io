@@ -1,3 +1,13 @@
+---
+layout: post
+title: Test protection
+subtitle: Enigma Group - Basics - Write-Ups 
+gh-repo: 0xSs0rZ/0xSs0rZ.github.io
+gh-badge: [star]
+tags: [CTF, Enigma Group, Basics, Commandes, Javascript, Web App, Local File Inclusion, SQLi, Write-Up]
+comments: false
+---
+
 <!doctype html>
 <html class="staticrypt-html">
 <head>
