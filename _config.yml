@@ -21,6 +21,7 @@ description: Pentest 101
 # List of links in the navigation bar
 navbar-links:
   #About Me: "aboutme"
+  Test: "/example.html"
   Resources:
     - Debian Documentation: "https://www.debian.org/doc/"
     - EFF: "https://www.eff.org/"
@@ -263,6 +264,7 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

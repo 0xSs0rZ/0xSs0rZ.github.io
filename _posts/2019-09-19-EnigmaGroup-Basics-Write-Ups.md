@@ -4,7 +4,7 @@ title: Enigma Group - Basics
 subtitle: Enigma Group - Basics - Write-Ups 
 gh-repo: 0xSs0rZ/0xSs0rZ.github.io
 gh-badge: [star]
-tags: [CTF, Enigma Group, Basics, Commandes, Javascript, Web App, Local Fi SQLi, Write-Up]
+tags: [CTF, Enigma Group, Basics, Commandes, Javascript, Web App, Local File Inclusion, SQLi, Write-Up]
 comments: false
 ---
 
@@ -14,7 +14,7 @@ Enigma Group: [https://www.enigmagroup.org/](https://www.enigmagroup.org/)
 
 # Basics - Starter
 
-##1 Basic 1
+## Basic 1
 
 Level 1 - The Infamous Noob Test
 
@@ -24,7 +24,7 @@ Find the password to complete this mission.
 
 Clic droit - code source, on trouve le mot de passe dans un commentaire
 
-##2 Basic 2
+## Basic 2
 
 fopen: could not open file '/www/htdocs/challenges/basics/pre/2/dontlookinhere/password.txt';
 
@@ -40,7 +40,7 @@ On visite http://challenges.enigmagroup.org/basics/pre/2/dontlookinhere/
 
 Il y a un fichier nommé password.inc on le consulte on trouve un mot de passe pour le compte admin
 
-##3 Basic 3
+## Basic 3
 
 Tip: robot
 
@@ -186,7 +186,7 @@ window.location.href="http://challenges.enigmagroup.org/basics/js/5/"+unescape(p
 
 On décode %41%53%43%49%49%2D%43%68%61%72%74 encodé en HTML URL. [https://www.urldecoder.org/](https://www.urldecoder.org/)
 
-#Spoofing
+# Spoofing
 
 ## Basic 16 
 
@@ -209,7 +209,7 @@ Info: You must be using the "EnigmaFox" web browser.
 
 Spoofing du user-agent en utilisant Burp
 
-#SQL Injection
+# SQL Injection
 
 ## Basic 21
 
@@ -217,7 +217,7 @@ Spoofing du user-agent en utilisant Burp
 
 x' or 1=1--
 
-#URL Manipulation
+# URL Manipulation
 
 ## Basic 27
 
@@ -327,72 +327,4 @@ Mission completed
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Poursuivez avec:**
-
-- [PicoCTF 2018 - Forensics](https://0xss0rz.github.io/2019-08-21-picoCTF-Forensics-Write-Ups/)
-
-- [PicoCTF 2018 - General Skills](https://0xss0rz.github.io/2019-08-22-picoCTF-General-Skills-Write-Ups/)
-
-- [PicoCTF 2018 - Cryptography](https://0xss0rz.github.io/2019-08-22-picoCTF-Cryptography-Write-Ups/)
-
-[![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
 
