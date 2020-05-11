@@ -16,6 +16,8 @@ Remarque: pour les reverse shell commencer par lancer un listener du côté de l
 nc -nlvp <PORT>
 ~~~
 
+Autre remarque: L'outil One-Lin3r de D4Vinci [https://github.com/D4Vinci/One-Lin3r](https://github.com/D4Vinci/One-Lin3r) est un bon complément pour créer des payloads sur une ligne :)
+
 # Bash
 
 ## Reverse shell 
