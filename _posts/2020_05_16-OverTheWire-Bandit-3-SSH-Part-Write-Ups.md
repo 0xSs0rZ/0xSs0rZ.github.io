@@ -433,9 +433,9 @@ IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
 $
 ~~~
 
-**Retrouvez les solutions :
+**Retrouvez les solutions :**
 - pour les niveaux 0 à 10 : [OverTheWire -Bandit 1](https://0xss0rz.github.io/2019-08-20-OverTheWire-Bandit-1-Write-Ups/)
-- pour les niveaux 11 à 23 : [OverTheWire - Bandit 2](https://0xss0rz.github.io/2019-08-22-OverTheWire-Bandit-2-Write-Ups/)**
+- pour les niveaux 11 à 23 : [OverTheWire - Bandit 2](https://0xss0rz.github.io/2019-08-22-OverTheWire-Bandit-2-Write-Ups/)
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
