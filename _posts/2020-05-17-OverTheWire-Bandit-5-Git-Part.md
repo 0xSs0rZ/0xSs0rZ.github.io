@@ -8,7 +8,7 @@ tags: [Waregame, CTF, OverTheWire, Git, Commandes, Linux, Write-Up]
 comments: false
 ---
 
-**Les repos Git peuvent permettre de trouver des informations confidentielles, etc. Les challs du wargame Bandit d'Over The Wire permette d'exploiter certaines fonctionnalités de Git. Voici comment**
+**Les repos Git peuvent permettre d'obtenir des infos confidentielles, etc. Voici quelques exemples provenant des challs Bandit d'Over The Wire**
 
 
 # bandit28
