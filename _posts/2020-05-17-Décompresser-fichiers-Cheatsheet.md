@@ -4,7 +4,7 @@ title: Cheatsheet - Décompresser des fichiers
 subtitle: RAR, ZIP, TAR, etc 
 gh-repo: 0xSs0rZ/0xSs0rZ.github.io
 gh-badge: [star]
-tags: [Cheatsheet, archive, décompression, extraction, Rar, Tar, Zip, Gzip, Bz2, Xz,  Commandes, Linux]
+tags: [Cheat sheet, archive, décompression, extraction, Rar, Tar, Zip, Gzip, Bz2, Xz,  Commandes, Linux]
 comments: false
 ---
 
