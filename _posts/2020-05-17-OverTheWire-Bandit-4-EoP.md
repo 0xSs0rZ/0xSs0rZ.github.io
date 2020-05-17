@@ -8,7 +8,7 @@ tags: [Waregame, CTF, OverTheWire, Elevation de privilèges, EoP, SUID, Cron, Co
 comments: false
 ---
 
-**Le wargame d'OverTheWire permet d'effectuer des élévations de privilège (EoP) dans un environnement Linux. Voici les solutions des challs exploitant le flag SUID ou le processus cron**
+**Le wargame d'Over The Wire permet d'effectuer des élévations de privilège (EoP) dans un environnement Linux. Voici les solutions des challs exploitant le flag SUID ou le processus cron**
 
 # bandit20 - SUID 1
 
