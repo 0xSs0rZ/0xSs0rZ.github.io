@@ -8,7 +8,7 @@ tags: [Cheat sheet, PWK, OSCP, Netcat, Find, Locate, Which, SSH, Apache, Ncat, T
 comments: false
 ---
 
-** Résumé du PWK - OSCP
+** Résumé du PWK - OSCP **
 
 # Locate
 
