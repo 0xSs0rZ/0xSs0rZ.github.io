@@ -4,7 +4,7 @@ title: Redirection de ports avec Ngrock
 subtitle: Port forwarding with Ngrock 
 gh-repo: 0xSs0rZ/0xSs0rZ.github.io
 gh-badge: [star]
-tags: [Ngrock, redirection de ports, port forwarding, reverse shell, metasploit, Commandes, Linux]
+tags: [Ngrock, Redirection de ports, Port forwarding, Reverse shell, Metasploit, Commandes, Linux]
 comments: false
 ---
 
