@@ -467,6 +467,7 @@ root@Host-001:~/Bureau/home/david/.ssh#
 
 Tentons de nous connecter via ssh avec hunter
 
+~~~
 root@Host-001:~/Bureau/home/david/.ssh# ssh -i id_rsa david@10.10.10.165
 Enter passphrase for key 'id_rsa': 
 Linux traverxec 4.19.0-6-amd64 #1 SMP Debian 4.19.67-2+deb10u1 (2019-09-20) x86_64
