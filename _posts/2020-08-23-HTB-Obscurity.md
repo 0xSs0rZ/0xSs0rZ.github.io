@@ -4,7 +4,7 @@ title: HTB - Obscurity
 subtitle: Hack The Box - Linux Machine - Medium 
 gh-repo: 0xSs0rZ/0xSs0rZ.github.io
 gh-badge: [star]
-tags: [HTB, Linux, python, wfuzz, crypto]
+tags: [HTB, Linux, Python, Wfuzz, Crypto]
 comments: false
 ---
 
