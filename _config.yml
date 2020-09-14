@@ -23,20 +23,9 @@ navbar-links:
   #About Me: "aboutme"
   #Test: "/example.html"
   Hack The Box:
-    - Linux - Easy - Networked: "https://0xss0rz.github.io/2020-08-05-HTB-Networked/"
-    - Linux - Easy - Safe: "https://0xss0rz.github.io/2020-08-05-HTB-Safe/"
-    - Linux - Easy - Traceback: "https://0xss0rz.github.io/2020-08-21-HTB-Traceback/"
-    - Linux - Easy - Wall: "https://0xss0rz.github.io/2020-08-04-HTB-Wall/"
-        - Write-Up: "https://0xss0rz.github.io/2020-08-04-HTB-Write-Up/"
-      - Medium:
-        - Obscurity: "https://0xss0rz.github.io/2020-08-23-HTB-Obscurity/"
-        - OpenAdmin: "https://0xss0rz.github.io/2020-08-05-HTB-OpenAdmin/"
-        - Traverxec: "https://0xss0rz.github.io/2020-08-05-HTB-Traverxec/"
-    - Windows:
-      - Easy:
-        - Nest: "https://0xss0rz.github.io/2020-08-21-HTB-Nest/"
-      - Medium: 
-        - Sauna: "https://0xss0rz.github.io/2020-08-06-HTB-Sauna/"
+    - Profil: "https://www.hackthebox.eu/profile/181928"
+  Root-Me:
+    - Profil: "https://www.root-me.org/0xSs0rZ"
   #Resources:
   #  - Debian Documentation: "https://www.debian.org/doc/"
   #  - EFF: "https://www.eff.org/"
