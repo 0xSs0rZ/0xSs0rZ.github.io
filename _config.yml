@@ -26,6 +26,7 @@ navbar-links:
     - Profil: "https://www.hackthebox.eu/profile/181928"
   Root-Me:
     - Profil: "https://www.root-me.org/0xSs0rZ"
+  Tags: "https://0xss0rz.github.io/tags/"
   #Resources:
   #  - Debian Documentation: "https://www.debian.org/doc/"
   #  - EFF: "https://www.eff.org/"
@@ -44,7 +45,7 @@ navbar-links:
   #  - RingZer0: "https://ringzer0ctf.com/" 
   #  - Root Me: "https://www.root-me.org/?lang=fr"
   #  - W3 Challs: "https://w3challs.com/challenges/hacking"
-  Author's home: "https://0xSs0rZ.github.io/"
+  #Author's home: "https://0xSs0rZ.github.io/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
