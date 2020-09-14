@@ -23,12 +23,10 @@ navbar-links:
   #About Me: "aboutme"
   #Test: "/example.html"
   Hack The Box:
-    - Linux:
-      - Easy:
-        - Networked: "https://0xss0rz.github.io/2020-08-05-HTB-Networked/"
-        - Safe: "https://0xss0rz.github.io/2020-08-05-HTB-Safe/"
-        - Traceback: "https://0xss0rz.github.io/2020-08-21-HTB-Traceback/"
-        - Wall: "https://0xss0rz.github.io/2020-08-04-HTB-Wall/"
+    - Linux - Easy - Networked: "https://0xss0rz.github.io/2020-08-05-HTB-Networked/"
+    - Linux - Easy - Safe: "https://0xss0rz.github.io/2020-08-05-HTB-Safe/"
+    - Linux - Easy - Traceback: "https://0xss0rz.github.io/2020-08-21-HTB-Traceback/"
+    - Linux - Easy - Wall: "https://0xss0rz.github.io/2020-08-04-HTB-Wall/"
         - Write-Up: "https://0xss0rz.github.io/2020-08-04-HTB-Write-Up/"
       - Medium:
         - Obscurity: "https://0xss0rz.github.io/2020-08-23-HTB-Obscurity/"
@@ -225,7 +223,7 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
-  - example.html
+ # - example.html
 
 # prose.io config
 prose:
