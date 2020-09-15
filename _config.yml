@@ -26,7 +26,9 @@ navbar-links:
     - Profil: "https://www.hackthebox.eu/profile/181928"
   Root-Me:
     - Profil: "https://www.root-me.org/0xSs0rZ"
-  Tags: "https://0xss0rz.github.io/tags/"
+  Search:
+    - Tags: "https://0xss0rz.github.io/tags/"
+    - GitBook: "https://0xss0rz.gitbook.io/0xss0rz/"
   #Resources:
   #  - Debian Documentation: "https://www.debian.org/doc/"
   #  - EFF: "https://www.eff.org/"
