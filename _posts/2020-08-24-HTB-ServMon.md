@@ -8,6 +8,8 @@ tags: [HTB, Windows, NVMS-1000, Directory Traversal, Metasploit, CVE-2019-20085,
 comments: false
 ---
 
+![Logo](/img/ServMon_logo.png){: .center-block :}
+
 ## 1. User
 
 ~~~
@@ -240,6 +242,8 @@ Code source:
 	</body>
 </html>
 ~~~
+
+![Logo](/img/ServMon_NVMS.png){: .center-block :}
 
 Page d'accueil on parle de NVMS 1000.
 
