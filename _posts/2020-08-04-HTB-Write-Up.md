@@ -4,7 +4,7 @@ title: HTB - Write Up
 subtitle: Hack The Box - Linux Machine 
 gh-repo: 0xSs0rZ/0xSs0rZ.github.io
 gh-badge: [star]
-tags: [HTB, Linux, CMS Made Simple, SQLi, scp, run-parts, reverse shell, perl]
+tags: [HTB, Linux, CMS Made Simple, SQLi, scp, run-parts, reverse shell, perl, CVE-2019-9053]
 comments: false
 ---
 
