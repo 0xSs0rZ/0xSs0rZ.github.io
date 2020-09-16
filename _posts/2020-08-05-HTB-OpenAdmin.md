@@ -4,7 +4,7 @@ title: HTB - OpenAdmin
 subtitle: Hack The Box - Linux Machine - Medium 
 gh-repo: 0xSs0rZ/0xSs0rZ.github.io
 gh-badge: [star]
-tags: [HTB, Linux, OpenNetAdmin, dos2unix, ssh2john, LinEnum, Nano, scp]
+tags: [HTB, Linux, OpenNetAdmin, dos2unix, ssh2john, LinEnum, Nano, scp, RCE]
 comments: false
 ---
 Nmap:
