@@ -366,11 +366,7 @@ On essaye plusieurs payload de 'command injection' sans succès :(
 
 **Réponse:**
 
-À priori il suffisait de lancer 
-
-~~~
-{{ get_file("/fl4g.txt") }}
-~~~
+À priori il suffisait de lancer: {{ get_file("/fl4g.txt") }}
 
 :(
 
