@@ -97,6 +97,25 @@ ce qui donne au final  `DUCTF{crypto_is_fun_kjqlptzy}`
 
 Aussi possible de créer un script pour automatiser
 
+Ex: [https://github.com/satoki/ctf_writeups/tree/master/DownUnderCTF/rot-i](https://github.com/satoki/ctf_writeups/tree/master/DownUnderCTF/rot-i)
+
+~~~
+rotflag = "ndldie_al_aqk_jjrnsxee"
+
+print("DUCTF{",end="")
+
+i = 15
+for j in rotflag:
+        m = (ord(j) - ord('a') + i) % 26
+        ans = chr(m + ord('a'))
+        if j == "_":
+            ans = j
+        print(ans,end="")
+        i -= 1
+
+print("}")
+~~~
+
 ## babyrsa - 294 - easy
 
 ![BabyRSA](/img/DUCTF_babyrsa_1.png){: .center-block :}
