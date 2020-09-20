@@ -4,7 +4,7 @@ title: DownUnder CTF 2020 - Write-Ups
 subtitle: Web, crypto, stegano, etc. 
 gh-repo: 0xSs0rZ/0xSs0rZ.github.io
 gh-badge: [star]
-tags: [CTF, DUCTF, Web, Crypto, Stegano, Write-up, Rot-i, RSA, RsaCtfTool, Audacity, wav, Audio, Spectrum, Stegcracker]
+tags: [CTF, DUCTF, Web, Crypto, Stegano, Write-up, Rot-i, RSA, RsaCtfTool, Audacity, wav, Audio, Spectrum, Stegcracker, Pickle, Command Injection]
 comments: false
 ---
 
@@ -136,7 +136,6 @@ On va utiliser RsaCtfTool.
 Ref:
 
 - [https://stackoverflow.com/questions/60896984/ctf-rsa-decrypt-using-n-c-e](https://stackoverflow.com/questions/60896984/ctf-rsa-decrypt-using-n-c-e)
-
 - [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool)
 
 ~~~
@@ -363,12 +362,17 @@ On essaye plusieurs payload de 'command injection' sans succès :(
 **Ref:** 
 
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection)
-
 - [HackTricks](https://book.hacktricks.xyz/pentesting-web/command-injection)
 
 **Réponse:**
 
-À priori il suffisait de lancer `{{ get_file("/fl4g.txt") }}` :(
+À priori il suffisait de lancer 
+
+~~~
+{{ get_file("/fl4g.txt") }}
+~~~
+
+:(
 
 # Misc
 
