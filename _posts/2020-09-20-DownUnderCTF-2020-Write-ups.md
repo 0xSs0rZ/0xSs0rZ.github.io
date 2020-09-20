@@ -413,11 +413,7 @@ On décode le base64:
 
 [https://downunderctf.com/rules/](https://downunderctf.com/rules/) en bas il y a un lien vers un Discord
 
-![Discord](/img/DUCTF_discord_2.png){: .center-block :}
-
-En haut on trouve un lien https://duc.tf/flag En cliquant sur ce lien on est redirigé vers https://www.youtube.com/watch?v=dQw4w9WgXcQ
-
-`DUCTF{https://www.youtube.com/watch?v=dQw4w9WgXcQ}`
+Se connecter a Discord -> Channel #general
 
 ## Welcome
 
