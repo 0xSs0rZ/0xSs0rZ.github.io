@@ -197,7 +197,7 @@ Ref: [http://cedric.cnam.fr/~bouchati/enseignement/STMN_TDS/TP3_TFetSpectre.pdf]
 
 ![Spectrum](/img/DUCTF_spectrum_3.png){: .center-block :}
 
-DUCTF{m4h?3_n0t_s0_h1dd3n}
+DUCTF{m4by3_n0t_s0_h1dd3n}
 
 Plus d'outils et de méthodes en stéganographie disponibles ici: [0xSs0rZ - GitBook](https://0xss0rz.gitbook.io/0xss0rz/ctf/steganography-1/tools) :)
 
@@ -267,7 +267,9 @@ In joyful strains then let us sing,
 Advance Australia Fair.
 Ref: https://en.wikipedia.org/wiki/Advance_Australia_Fair
 
-A compléter
+Rep:
+
+Il y avait des espaces à la fin de certain paragraphes. Voir ce [write-up](https://github.com/csivitu/CTF-Write-ups/tree/master/DUCTF/forensics/i-love-scomo)
 
 # Reversing
 
