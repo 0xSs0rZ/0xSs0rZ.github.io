@@ -186,6 +186,9 @@ admin
 w0rdpr3ss01!
 ~~~
 
+FTP:
+
+~~~
 root@Host-001:~/Téléchargements# ftp 10.10.10.187
 Connected to 10.10.10.187.
 220 (vsFTPd 3.0.3)
