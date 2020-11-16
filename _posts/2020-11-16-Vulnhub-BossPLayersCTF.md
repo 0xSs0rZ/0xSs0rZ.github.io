@@ -10,7 +10,7 @@ comments: false
 
 ![Logo](/img/Vulnhub_logo.png){: .center-block :}
 
-JIS CTF est une machine vulnérable créée par Cuong Nguyen et disponible depuis septembre 2019 en téléchargement sur [VulnHub](https://www.vulnhub.com/entry/jis-ctf-vulnupload,228/). Elle est également proposée sur la plateforme d'[Offensive Security](https://www.offensive-security.com/labs/individual/).
+BossPlayers est une machine vulnérable créée par Cuong Nguyen et disponible depuis septembre 2019 en téléchargement sur [VulnHub](https://www.vulnhub.com/entry/jis-ctf-vulnupload,228/). Elle est également proposée sur la plateforme d'[Offensive Security](https://www.offensive-security.com/labs/individual/).
 
 ## 1. User
 
