@@ -70,7 +70,7 @@ Password: `test`
 Username: `admin';`
 Password: `test`
 
-SELECT * FROM users WHERE username='admin';' AND password='test'
+`SELECT * FROM users WHERE username='admin';' AND password='test'`
 
 ![Round3](/img/PicoCTF_9.png){: .center-block :}
 
