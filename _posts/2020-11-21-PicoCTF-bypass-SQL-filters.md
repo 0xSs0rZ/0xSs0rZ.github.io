@@ -39,7 +39,6 @@ Password: `test`
 
 {: .box-note}
 ; : ferme la requête
-{: .box-note}
 -- : ce qui est après est un commentaire
 
 {: .box-warning}
