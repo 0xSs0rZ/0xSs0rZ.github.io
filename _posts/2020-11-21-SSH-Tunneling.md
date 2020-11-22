@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Tunnel SSH ou SSH Port forwarding - Cheat sheet
+title: SSH Port forwarding - Cheat sheet
 subtitle: Tunnel SSH ou SSH Port forwarding - Cheat sheet
 gh-repo: 0xSs0rZ/0xSs0rZ.github.io
 gh-badge: [star]
-tags: [SSH, Tunneling, Tunnel SSH, Port forwarding, Bypass, Firewall, Redirection de ports, Cheat sheet]
+tags: [SSH, Tunneling, Tunnel SSH, Port forwarding, Bypass, Firewall, Redirection de ports, Cheat sheet, Chisel, Plink]
 comments: false
 ---
 
@@ -49,9 +49,8 @@ Chisel est disponible ici: [https://github.com/jpillora/chisel](https://github.c
 'Chisel is a fast TCP tunnel, transported over HTTP, secured via SSH. Single executable including both client and server. Written in Go (golang). Chisel is mainly useful for passing through firewalls, though it can also be used to provide a secure endpoint into your network. Chisel is very similar to crowbar though achieves much higher performance.'
  
 Installation de Chisel:
- 
-1 - `git clone https://github.com/jpillora/chisel.git`
-2 - Dans le répertoire de chisel: `go build`
+1. `git clone https://github.com/jpillora/chisel.git`
+2. Dans le répertoire de chisel: `go build`
  
 Avant d'entrer dans le vif du sujet, soulignons qu'un autre outil est intéressant pour faire du port forwarding. Il s'agit de **Ngrock**. Découvrez comment utiliser Ngrock [ici](https://0xss0rz.github.io/2020-06-20-Ngrock-usage/)
     
@@ -128,24 +127,41 @@ Sur la machine pivot:
 **Happy Hacking !**
 
 **Références:**
+
 1 - OpenSSH
+
 [ - How to setup ssh tunneling - Linuxsize](https://linuxize.com/post/how-to-setup-ssh-tunneling/)
+
 [ - OSCP - Understanding ssh tunnels - FalconSpy](https://falconspy.medium.com/oscp-understanding-ssh-tunnels-519e31c698bf)
+
 [ - SSH Port forwarding examples](https://www.ssh.com/ssh/tunneling/example)
+
 [ - SSH Tunneling](https://www.ssh.com/ssh/tunneling/)
+
 [ - Comprendre la redirection de port (Port forwarding) - Linux France](http://www.linux-france.org/prj/edu/archinet/systeme/ch13s04.html)
+
 2 - Plink
+
 [ - Using the command-line connexion tool plink](https://the.earth.li/~sgtatham/putty/0.52/htmldoc/Chapter7.html)
+
 [ - Tunneling sessions via plink - Booches.nl](https://www.booches.nl/2010/08/tunneling-sessions-via-plink/) 
+
 [ - Setting up an ssh tunnel using plink])(https://medium.com/@incubusattax/setting-up-an-ssh-tunnel-using-plink-7d8dacfd4014)
+
 [ - Remote SSH tunneling with plink.exe](https://medium.com/@informationsecurity/remote-ssh-tunneling-with-plink-exe-7831072b3d7d)
+
 3 - Chisel
+
 [ - Tunneling with Chisel and SSF - 0xdf](https://0xdf.gitlab.io/2020/08/10/tunneling-with-chisel-and-ssf-update.html)
+
 [ - Etat de l’art du pivoting réseau en 2019 - Orange CYberdefense](https://orangecyberdefense.com/fr/insights/blog/ethical_hacking/etat-de-lart-du-pivoting-reseau-en-2019/)
 
 **Credit photos:**
+
 [ - MRG-Effitas](https://www.mrg-effitas.com/research/bypass-hardware-firewalls-def-con-22/)
+
 [ - SSH.com](https://www.ssh.com/ssh/tunneling/)
+
 [ - FalconSpy](https://falconspy.medium.com/oscp-understanding-ssh-tunnels-519e31c698bf)
 
 **Poursuivez avec :** 
