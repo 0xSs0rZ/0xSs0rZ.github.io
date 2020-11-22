@@ -126,6 +126,10 @@ Sur la machine pivot:
 
 `chisel client -v HOST_IP:PORT R:[REMOTE:]REMOTE_PORT:DESTINATION:DESTINATION_PORT`
 
+## En résumé:
+
+![remote port forward](/img/SSH_6.png){: .center-block :}
+
 **Happy Hacking !**
 
 **Références:**
