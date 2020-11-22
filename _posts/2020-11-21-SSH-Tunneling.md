@@ -43,7 +43,9 @@ Utiliser la bonne version (32 ou 64 bits) de plink en fonction du type de machin
  
 ![plink](/img/SSH_3.png){: .center-block :}
  
-Chisel est disponible ici: [https://github.com/jpillora/chisel](https://github.com/jpillora/chisel)
+Chisel (server) est disponible ici: [https://github.com/jpillora/chisel](https://github.com/jpillora/chisel)
+
+Les derniers fichiers 'client' de Chisel sont ici: [https://github.com/jpillora/chisel/releases/tag/v1.7.2](https://github.com/jpillora/chisel/releases/tag/v1.7.2)
  
 {: .box-note}
 'Chisel is a fast TCP tunnel, transported over HTTP, secured via SSH. Single executable including both client and server. Written in Go (golang). Chisel is mainly useful for passing through firewalls, though it can also be used to provide a secure endpoint into your network. Chisel is very similar to crowbar though achieves much higher performance.'
