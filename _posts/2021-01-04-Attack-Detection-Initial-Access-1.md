@@ -185,7 +185,7 @@ Il est possible d'usurper le PPID et la ligne de commande pour éviter la détec
 
 ![f2950d1aaf9abd5492b5a75b4b5e9f16.png](/img/42439c12c48347218548cdaa2268cf8b.png)
 
-Ici nous utiliserons macro.vba disponible ici: https://github.com/christophetd/spoofing-office-macro
+Ici nous utiliserons macro.vba disponible ici: [https://github.com/christophetd/spoofing-office-macro](https://github.com/christophetd/spoofing-office-macro)
 
 *PoC of a VBA macro spawning a process with a spoofed parent and command line*
 
@@ -222,31 +222,32 @@ Dans ce lab, nous avons vu:
 
 # Références
 
-[1] F-Secure, *Attack Fundamentals Workshops*, https://www.f-secure.com/en/consulting/events/attack-detection-fundamentals-workshops 
+[1] F-Secure, *Attack Fundamentals Workshops*, [https://www.f-secure.com/en/consulting/events/attack-detection-fundamentals-workshops ](https://www.f-secure.com/en/consulting/events/attack-detection-fundamentals-workshops )
 
-[2] F-Secure, *Attack Detection Fundamentals - Initial Access Lab1*, https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-1/
+[2] F-Secure, *Attack Detection Fundamentals - Initial Access Lab1*, [https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-1/](https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-1/)
 
-[3] TechTarget, *Command-and-control servers: The puppet masters that govern malware*, https://searchsecurity.techtarget.com/feature/Command-and-control-servers-The-puppet-masters-that-govern-malware
+[3] TechTarget, *Command-and-control servers: The puppet masters that govern malware*, [https://searchsecurity.techtarget.com/feature/Command-and-control-servers-The-puppet-masters-that-govern-malware](https://searchsecurity.techtarget.com/feature/Command-and-control-servers-The-puppet-masters-that-govern-malware
+)
 
-[4] Cobbr, *Covenant - Installation and Startup*, https://github.com/cobbr/Covenant/wiki/Installation-And-Startup
+[4] Cobbr, *Covenant - Installation and Startup*, [https://github.com/cobbr/Covenant/wiki/Installation-And-Startup](https://github.com/cobbr/Covenant/wiki/Installation-And-Startup)
 
-[4] *Install .NET Core SDK 3.1 in Ubuntu 20.04LTS*, https://abhisheksubbu.github.io/dotnet-core-install-ubuntu-20-04-lts/
+[4] *Install .NET Core SDK 3.1 in Ubuntu 20.04LTS*, [https://abhisheksubbu.github.io/dotnet-core-install-ubuntu-20-04-lts/](https://abhisheksubbu.github.io/dotnet-core-install-ubuntu-20-04-lts/)
 
-[5] Hakin9, *Covenant the .NET based C2 on Kali Linux*, https://hakin9.org/covenant-the-net-based-c2-on-kali-linux/
+[5] Hakin9, *Covenant the .NET based C2 on Kali Linux*, [https://hakin9.org/covenant-the-net-based-c2-on-kali-linux/]
 
-[6] Cobbr, *Covenant: The Usability Update*, https://cobbr.io/Covenant-The-Usability-Update.html
+[6] Cobbr, *Covenant: The Usability Update*, [https://cobbr.io/Covenant-The-Usability-Update.html](https://hakin9.org/covenant-the-net-based-c2-on-kali-linux/)
 
-[7] *Getting Started with Covenant*, https://fatrodzianko.com/2019/08/14/getting-started-with-covenant-c2/
+[7] *Getting Started with Covenant*, [https://fatrodzianko.com/2019/08/14/getting-started-with-covenant-c2/](https://fatrodzianko.com/2019/08/14/getting-started-with-covenant-c2/)
 
-[8] *Setup Configuration and Task Execution with Covenant: The Complete Guide*, https://stealthbits.com/blog/setup-configuration-and-task-execution-with-covenant-the-complete-guide/
+[8] *Setup Configuration and Task Execution with Covenant: The Complete Guide*, [https://stealthbits.com/blog/setup-configuration-and-task-execution-with-covenant-the-complete-guide/](https://stealthbits.com/blog/setup-configuration-and-task-execution-with-covenant-the-complete-guide/)
 
-[9] *Interacting with Covenant C2*, https://bestestredteam.com/2020/02/19/interacting-with-covenant-c2/
+[9] *Interacting with Covenant C2*, [https://bestestredteam.com/2020/02/19/interacting-with-covenant-c2/](https://bestestredteam.com/2020/02/19/interacting-with-covenant-c2/)
 
-[10] Neo23x0, *Sigma*, https://github.com/Neo23x0/sigma/
+[10] Neo23x0, *Sigma*, [https://github.com/Neo23x0/sigma/](https://github.com/Neo23x0/sigma/)
 
-[11] Windows, *Sysmon*, https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon
+[11] Windows, *Sysmon*, [https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon)
 
-[12] MITRE ATT&CK, *Defense Evasion*, https://attack.mitre.org/tactics/TA0005/
+[12] MITRE ATT&CK, *Defense Evasion*, [https://attack.mitre.org/tactics/TA0005/](https://attack.mitre.org/tactics/TA0005/)
 
 **Poursuivez avec :** 
 
