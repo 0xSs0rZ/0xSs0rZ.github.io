@@ -89,6 +89,8 @@ On trouve des connections en lien avec mshta et rundll32
 
 Nous venons d'analyser une anomalie couramment générée par des outils offensifs à savoir la création d'une connection à internet par un binaire. Ce type de connection peut être un indicateur de compromission
 
+# Références
+
 [1] F-Secure, *Attack Detection Fundamentals: Initial Access - Lab #2*, [https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-2/](https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-2/)
 
 [2] Zerosum0x0, *Koadic*, [https://github.com/zerosum0x0/koadic](https://github.com/zerosum0x0/koadic)
