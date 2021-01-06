@@ -246,7 +246,7 @@ Clic droit -> Properties. Enable logging
 
 # Conclusion
 
-Nous avons reproduit les étapes utilisées lors de l'opération Cobalt Kitty. Bien que cette attaque soit *fileless*, il est possible de la détection à l'aide de l'analyse PPID et des connections réseau.
+Nous avons reproduit les étapes utilisées lors de l'opération Cobalt Kitty. Bien que cette attaque soit *fileless*, il est possible de la détecter à l'aide de l'analyse PPID et des connections réseau.
 
 # Références
 
