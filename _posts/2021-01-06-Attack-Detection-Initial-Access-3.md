@@ -4,7 +4,7 @@ title: Attack Detection Fundamentals - Initial Access Lab 3
 subtitle: Workshop de F-Secure - Utilisation de Cobalt Strike
 gh-repo: 0xSs0rZ/0xSs0rZ.github.io
 gh-badge: [star]
-tags: [Cobalt Kitty, Cobalt Strike, PowerShell, Word, Macro, VBA, Windows, Mshta, Fileless attack, Red Team, Blue Team, Beacon, C2, Obfuscation, Invoke-Obfuscation, SCT, Sysmon, PPID, LOLBin, Schtasks, Sigma
+tags: [Cobalt Kitty, Cobalt Strike, PowerShell, Word, Macro, VBA, Windows, Mshta, Fileless attack, Red Team, Blue Team, Beacon, C2, Obfuscation, Invoke-Obfuscation, SCT, Sysmon, PPID, LOLBin, Schtasks, Sigma]
 ---
 
 ![d18894b98f1427909964d9d9f8cc8656.png](/img/1d0286fba5f74365a7b3fa4931af8edd.png){: .center-block :}
