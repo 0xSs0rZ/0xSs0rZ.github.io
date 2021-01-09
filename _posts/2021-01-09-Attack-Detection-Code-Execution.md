@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Attack Detection Fundamentals - Code Execution 
-subtitle: DLL Side-Loading et LOLBins
+subtitle: Workshop de F-Secure - DLL Side-Loading et LOLBins
 gh-repo: 0xSs0rZ/0xSs0rZ.github.io
 tags: [Astaroth, LOLBin, ADS, ExtEport, Meterpreter, Windows, Blue Team, Red Team, msfvenom, dropper, stager, BITSAdmin, Fileless attack, Streams, Sigma, Sysmon, MITRE ATT&CK, DLL Side-Loading, Defense Evasion, Sysinternals]
 ---
