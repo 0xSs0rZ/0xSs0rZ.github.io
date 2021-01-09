@@ -20,7 +20,11 @@ Dans ce premier lab de la série *Code Execution and Persistence* du workshop de
 
 {: .box-note}
 ***Code Execution** consists of techniques that result in adversary-controlled code running on a local or remote system.*
+
+{: .box-note}
 ***Astaroth** is a trojan and information stealer (...). It is used in a fileless malware campaign in the memory of infected computers. Astaroth also abuses living-off-the-land binaries (LOLbins).[3]*
+
+{: .box-note}
 ***LOLBins** are binaries that can be used by an attacker to perform actions beyond their original purpose [4]*
 
 **Attack chain:**
@@ -288,6 +292,7 @@ Plusieurs connection http avec kali dont une initiée par rundll32
 - Creation du processus `rundll32` par `ExtExport`
 
 ![c511b0e01123f1b2867835d45f604fd5.png](/img/de77b5cfd4d14944b425fde10100e730.png)
+
 ![28ff30f51a078e73e03e5878b273e35e.png](/img/6f2d972f01a6402c8d2cb6f8c3c87b56.png)
 
 On retrouve le path `C:\Users\Public\Libraries\raw\`
