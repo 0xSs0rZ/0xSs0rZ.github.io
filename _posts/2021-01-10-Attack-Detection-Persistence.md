@@ -6,7 +6,7 @@ gh-repo: 0xSs0rZ/0xSs0rZ.github.io
 tags: [Astaroth, Persistence, Windows, Startup Folder, Registry, regedit, Run Keys, HKCU, HKLM, Red Team, Blue Team, MITRE ATT&CK, Autoruns, Sysinternals, Sysmon, Sigma]
 ---
 
-![865390e4ac68e667e3bdd7153acf508a.png](/img/865390e4ac68e667e3bdd7153acf508a.png)
+![865390e4ac68e667e3bdd7153acf508a.jpg](/img/865390e4ac68e667e3bdd7153acf508a.jpg)
 
 Nous continuons dans cet article la série *Code Execution and Persistence* du workshop *Attack Detection Fundamentals* de F-Secure.
 
