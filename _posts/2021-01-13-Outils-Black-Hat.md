@@ -22,19 +22,19 @@ Rien d'étonnant à ça, mais ce qui est surprenant est qu'ils utilisent assez s
 
 Selon l'étude, les serveurs C2, Command & Control, les plus populaires chez les cybercriminels sont Cobalt Strike et Metasploit.
 
-![5abdf6f2019f3469b6018509a0c0896b.png](../_resources/81170604ac834fb8b20d6467853d3ba3.png)
+![5abdf6f2019f3469b6018509a0c0896b.png](/img/81170604ac834fb8b20d6467853d3ba3.png)
 
 L'étude souligne que les serveurs Cobalt Strike utilisés sont le plus souvent des versions crackées ou des versions d'essai.
 
 En plus de Cobalt Strike et de Metasploit, les acteurs malveillants plébiscitent également d'autres outils offensifs:
 
-![bad1709e272f763ab62a322eb3a72730.png](../_resources/5544641c61c14fda8a4db501386dade7.png)
+![bad1709e272f763ab62a322eb3a72730.png](/img/5544641c61c14fda8a4db501386dade7.png)
 
 Parmi ces outils, nous retrouvons Powershell Empire ou encore Covenant...
 
 Enfin, l'étude montre que les cybercriminels utilisent souvent des hébergeurs traditionnels tels que Amazon ou Digital Ocean:  
 
-![ef3a225c24cb1baf5937316d3c494765.png](../_resources/99b7e7785264418a91b9004964e975e9.png)
+![ef3a225c24cb1baf5937316d3c494765.png](/img/99b7e7785264418a91b9004964e975e9.png)
 
 **Poursuivez avec :** 
 
