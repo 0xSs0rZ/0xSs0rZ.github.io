@@ -237,7 +237,7 @@ Résultat:
 
 Pour le moment, on ne trouve pas d'événements 12 ou 13 car les règles de config de Sysmon qu'on vient d'installer sont trop restrictives..
 
-On modifie `sysmonconfig.xml` pour y ajouter une nouvelle règle afin de loguer les événements liés aux registres: (Shell Folders)
+On modifie `sysmonconfig.xml` pour y ajouter une nouvelle règle afin de loguer les événements liés aux registres [16]: (Shell Folders)
 
 ![49bcc129824fa93e48a60cd9cc3886c3.png](/img/2f700d9f992344598b7ad748ecbb863c.png)
 
@@ -308,6 +308,8 @@ Ces attaques sont détectables, notamment en analysant le fichier journal Sysmon
 [14] *Sysinternals Tool Sysmon Usage Tips and Tricks*, [https://blog.51sec.org/2018/09/sysmon-usage-tips-and-tricks.html](https://blog.51sec.org/2018/09/sysmon-usage-tips-and-tricks.html){:target="_blank"}
 
 [15] Sophos, *How to install and use Sysmon for malware investigation*, [https://support.sophos.com/support/s/article/KB-000038882?language=en_US](https://support.sophos.com/support/s/article/KB-000038882?language=en_US){:target="_blank"}
+
+[16] Roberto Rodriguez, *Setting up a Pentesting... I mean, a Threat Hunting Lab - Part 6*, [https://cyberwardog.blogspot.com/2017/02/setting-up-pentesting-i-mean-threat_87.html](https://cyberwardog.blogspot.com/2017/02/setting-up-pentesting-i-mean-threat_87.html){:target="_blank"}
 
 **Poursuivez avec :** 
 
