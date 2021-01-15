@@ -6,6 +6,8 @@ gh-repo: 0xSs0rZ/0xSs0rZ.github.io
 tags: [Covenant, C2, Rubeus, Kerberoast, AS-REP roast, SharpSploit, .NET, ETW, SilkETW, SilkService, Windows, Blue Team, Red Team, Active Directory, LDAP, HELK, LDAP Recon, PowerSploit, MITRE ATT&CK]
 ---
 
+![bdc1ff29d8e4fdaff0c8f1e2691a839d.png](/img/07c6239b49ac4dada3e2d10ef617ea53.png)
+
 Lors des labs précédents, nous avons étudié les étapes d'accès initial, d'exécution de code et de persistance du framework MITRE ATT&CK en imitant certains acteurs malveillants.
 
 - [Attack Detection Fundamentals - Initial Access Lab 1](https://0xss0rz.github.io/2021-01-04-Attack-Detection-Initial-Access-1/){:target="_blank"}
