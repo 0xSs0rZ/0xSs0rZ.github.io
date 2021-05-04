@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TryHackMe: Empire
+title: TryHackMe - Empire
 subtitle: Empire Post Exploitation Framework
 gh-repo: 0xSs0rZ/0xSs0rZ.github.io
 tags: [THM, Windows, C2, Empire, Powershell Empire, StarKiller, Eternalblue, Mimikatz]
